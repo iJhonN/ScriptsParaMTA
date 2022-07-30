@@ -1,0 +1,6 @@
+ <meta>
+    <info author="Logo Server" name="logo" version="0.1" type="script"/>
+    <script src="edit.lua" type="client" />
+    <file src="logo.png" />
+
+</meta>
